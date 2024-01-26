@@ -1,6 +1,6 @@
-### Hey, I'm Naryan
+## 👋🏼 Hey, I'm Naryan
 
-I'm a 21-year-old developer from Canada, and I'm passionate about crafting design and 
+I'm a 21-year-old developer from Canada, and I'm passionate about technology and visual design
 
 
 - Check out my [Blog](https://bz-city.neocities.org/) where I share insights and learnings.
@@ -31,6 +31,6 @@ I'm a 21-year-old developer from Canada, and I'm passionate about crafting desig
 ## 📫 Contact
 
 
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/naryan-sambhi/). 
+For a quick response, email me at naryan_sambhi@outlook.com. 
   
 
