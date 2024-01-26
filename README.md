@@ -1,4 +1,4 @@
-## 👋🏼 Hey, I'm Naryan
+## 👋🏼 Hey, I'm Ryan
 
 I'm a 21-year-old developer from Canada, and I'm passionate about technology and visual design
 
