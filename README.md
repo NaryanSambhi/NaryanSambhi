@@ -1,29 +1,28 @@
-###
-Hey, I'm Naryan
+### Hey, I'm Naryan
 I'm a 21-year-old developer from Canada, and I'm passionate about crafting design and 
 
-    ex
-    ex
-    ex
+    - Check out my [Personal Blog](https://bz-city.neocities.org/) where I share insights and learnings.
+    - Stay updated with my journey on[LinkedIn](https://www.linkedin.com/in/naryan-sambhi/).
 
-📦 Toolbox
+## 📦 Toolbox
 
-Languages: C, C++, Python, HTML, Javascript
+**Languages:** `C` `C++` `Python` `HTML` `Javascript`
 
-Version Control: Git GitLab
+**Version Control:** `Git`
 
-Testing: MSTests in C#
+**Testing:** `MSTests` 
 
-Others: Sdlc, Agile, Scrum
+**Others:** `Sdlc` `Agile` `Scrum`
 
-✨ Fun Facts
+##✨ Fun Facts
 
-    Canadian CS student - Main Languages are C & C++
-    Casually practices digtial Art & Design for fun
-    Loves classic Analogue Film Photography
+    - Canadian CS student - Main Languages are C & C++
+    - Casually practices digtial Art & Design for fun
+    - Loves classic Analogue Film Photography
   
 
-📫 Contact
+##📫 Contact
 
-For a quick response, DM me on - or -.
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/naryan-sambhi/). 
+  
 
