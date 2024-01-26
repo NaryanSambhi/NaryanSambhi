@@ -1,8 +1,12 @@
 ### Hey, I'm Naryan
+
 I'm a 21-year-old developer from Canada, and I'm passionate about crafting design and 
 
-    - Check out my [Personal Blog](https://bz-city.neocities.org/) where I share insights and learnings.
-    - Stay updated with my journey on[LinkedIn](https://www.linkedin.com/in/naryan-sambhi/).
+
+- Check out my [Blog](https://bz-city.neocities.org/) where I share insights and learnings.
+  
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/naryan-sambhi/).
+
 
 ## 📦 Toolbox
 
@@ -14,14 +18,18 @@ I'm a 21-year-old developer from Canada, and I'm passionate about crafting desig
 
 **Others:** `Sdlc` `Agile` `Scrum`
 
-##✨ Fun Facts
+## ✨ Fun Facts
 
-    - Canadian CS student - Main Languages are C & C++
-    - Casually practices digtial Art & Design for fun
-    - Loves classic Analogue Film Photography
+  
+- Canadian CS student at Conestoga College - Main Languages are C & C++
+  
+- Casually practices digtial Art & Design for fun
+  
+- Loves classic Analogue Film Photography
   
 
-##📫 Contact
+## 📫 Contact
+
 
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/naryan-sambhi/). 
   
