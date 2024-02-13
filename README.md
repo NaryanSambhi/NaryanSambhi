@@ -9,9 +9,9 @@ I'm a 21-year-old developer from Canada, and I'm passionate about technology and
 
 **Languages:** `C` `C++` `Python` `HTML` `Javascript`
 
-**Version Control:** `Git`
+**Version Control:** `Git` `Github` 
 
-**Testing:** `MSTests` 
+**Testing:** `MSTests` `Selenium` 
 
 **Others:** `Sdlc` `Agile` `Scrum`
 
