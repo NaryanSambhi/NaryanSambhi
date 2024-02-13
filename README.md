@@ -2,9 +2,6 @@
 
 I'm a 21-year-old developer from Canada, and I'm passionate about technology and visual design
 
-
-- Check out my [Blog](https://bz-city.neocities.org/) where I share insights and learnings.
-  
 - Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/naryan-sambhi/).
 
 
