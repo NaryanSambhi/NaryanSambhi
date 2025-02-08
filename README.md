@@ -4,7 +4,7 @@
 I'm a 21-year-old developer from Canada, and I'm passionate about technology and visual design
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
-  <img src="https://64.media.tumblr.com/214b2cfdfb22eea881ed40a112a05c03/tumblr_noo8cpsHnb1s68p7oo1_640.gif" 
+  <img src="https://i.pinimg.com/originals/d3/60/f1/d360f1827f7996e9e0a3ccb6f584c848.gif" 
        alt="Java" 
        style="width:70%; max-width:300px; height:auto;" />
 </div>
