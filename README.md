@@ -3,8 +3,14 @@
 
 I'm a 21-year-old developer from Canada, and I'm passionate about technology and visual design
 
-- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/naryan-sambhi/).
+---
 
+## Education
+**Bachelor of Computer Science (Honours)**  
+Conestoga College  
+09/2022 - 07/2026
+
+---
 
 ### 📦 Toolbox:
 | Language/Technology | Description                                                                 |
@@ -17,17 +23,13 @@ I'm a 21-year-old developer from Canada, and I'm passionate about technology and
 
 
 **✨ Fun Facts**  
-
-  
 - Canadian CS student at Conestoga College - Main Languages are C & C++
-  
 - Casually practices digtial Art & Design for fun
-  
 - Loves classic Analogue Film Photography
-  
 
-
-📫 **Contact**  
+**📫 Contact**  
   - Email: Naryan_Sambhi@outlook.com  
-  - LinkedIn: https://www.linkedin.com/in/naryan-sambhi/   
+  - LinkedIn: https://www.linkedin.com/in/naryan-sambhi/
+
+Feel free to contact me if you'd like to connect or collaborate on a project!
 
