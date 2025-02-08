@@ -9,8 +9,7 @@ I'm a 21-year-old developer from Canada, and I'm passionate about technology and
        style="width:70%; max-width:300px; height:auto;" />
 </div>
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaryanSambhi_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaryanSambhi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaryanSambhi&layout=compact&theme=dark)
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NaryanSambhi&theme=merko)](https://github.com/NaryanSambhi/github-readme-activity-graph)
