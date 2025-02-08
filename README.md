@@ -21,7 +21,7 @@ Conestoga College
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
-  <img src="https://i.pinimg.com/originals/d3/60/f1/d360f1827f7996e9e0a3ccb6f584c848.gif" 
+  <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" 
        alt="Java" 
        style="width:70%; max-width:300px; height:auto;" />
 </div>
