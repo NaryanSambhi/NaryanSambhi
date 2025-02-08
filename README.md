@@ -24,12 +24,16 @@ Conestoga College
   <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" 
        alt="Java" 
        style="width:70%; max-width:300px; height:auto;" />
+  
+  <div style="display: flex; flex-direction: column; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=NaryanSambhi&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 400px; height:auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaryanSambhi&layout=compact&theme=dark" alt="Top Languages" style="max-width: 400px; height:auto;" />
+    <a href="https://github.com/NaryanSambhi/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaryanSambhi&theme=merko" alt="Github activity graph" style="max-width: 400px; height:auto;" />
+    </a>
+  </div>
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaryanSambhi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaryanSambhi&layout=compact&theme=dark)
-
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NaryanSambhi&theme=merko)](https://github.com/NaryanSambhi/github-readme-activity-graph)
   
 
 ### 🔧 Skills:
